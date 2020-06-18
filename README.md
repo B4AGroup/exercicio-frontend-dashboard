@@ -8,7 +8,7 @@ Hoje, operamos duas marcas principais que são líderes em seus respectivos segm
 
 ## Envio do Teste
 
-- Envie o seu CV junto do link do repositório no GitHub referente ao teste no e-mail seung@b4agroup.com, com o nome da vaga no assunto (Vaga Front End, Vaga Full Stack, etc.)
+- Envie o seu CV junto do link do repositório no GitHub referente ao teste no e-mail
 - Ou envie o seu CV por e-mail e faça um pull-request neste repositório
 - Caso não queira deixar seu projeto público por possuir vínculo com outra empresa, você pode enviar um link de algum outro serviço, como BitBucket, por exemplo
 
