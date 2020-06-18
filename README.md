@@ -4,52 +4,13 @@ A B4A é uma empresa que foi criada em 2017 com a aquisição das empresas Glamb
 
 Hoje, operamos duas marcas principais que são líderes em seus respectivos segmentos: a Glambox, o maior serviço de assinatura de produtos de beleza da América Latina, focado na audiência feminina, e a Men’s Market, o maior e-commerce de produtos de beleza masculinos.
 
-## Vaga 
-
-Estamos buscando um(a) desenvolvedor(a) front-end para integrar a equipe de TI da B4A.
-
-- **Local de trabalho**: Bairro Vila Olímpia - São Paulo, SP
-- **Remuneração**: a combinar
-- **Modelo de contratação**: CLT ou PJ
-
 -----
 
-## Responsabilidades
-
-Desenvolvimento de Produtos atuando em:
-
-- Criação e manutenção de interfaces utilizando HTML, CSS e JavaScript
-- Consumo de APIs REST
-- Aplicações SPA (_Single Page Applications_)
-- Interfaces mobile-first e mobile-friendly
-
------
-
-## Requisitos
-
-- Formação em sistemas, tecnologia, computação ou áreas correlatas
-- Experiência com **JavaScript, HTML e CSS**
-- Experiência com algum framework/biblioteca de front-end, como **Angular**, **React** ou **Vue**
-- Conhecimento em pré-processadores de CSS (**LESS** ou **SASS**)
-- Conhecimento em metodologias ágeis
-
------
-
-## Diferenciais
-
-- Inglês intermediário ou avançado
-- Conhecimento em **NodeJS**
-- Experiência com e-commerce/clubes de assinatura
-
------
-
-## Candidatura
+## Envio do Teste
 
 - Envie o seu CV junto do link do repositório no GitHub referente ao teste no e-mail seung@b4agroup.com, com o nome da vaga no assunto (Vaga Front End, Vaga Full Stack, etc.)
 - Ou envie o seu CV por e-mail e faça um pull-request neste repositório
 - Caso não queira deixar seu projeto público por possuir vínculo com outra empresa, você pode enviar um link de algum outro serviço, como BitBucket, por exemplo
-
------
 
 ## Sobre o Teste
 
@@ -57,7 +18,7 @@ Comprove seus conhecimentos de JavaScript, HTML e CSS construindo um dashboard d
 
 Organizamos o que acreditamos ser o essencial para você:
 
-- Este repositório já possui um `package.json` em branco, começe colocando as dependências nele ou utilize algum gerador (`angular-cli` ou `create-react-app`) e sobrescreva
+- Este repositório já possui um `package.json` em branco, comece colocando as dependências nele ou utilize algum gerador (`angular-cli` ou `create-react-app`) e sobrescreva
 - Dentro da pasta `assets/data` você encontra um exemplo de dados para o seu dashboard, consuma estes dados como se fosse uma chamada de API e monte o seu lindo dashboard
 - Você pode aproveitar a pasta `assets/img` e colocar qualquer imagem que venha a usar no projeto
 - Não se prenda, porém, às convenções aqui apresentadas :wink:
